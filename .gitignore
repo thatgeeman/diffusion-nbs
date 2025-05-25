@@ -1,3 +1,6 @@
 sd-concept-output/
 .ipynb_checkpoints/
 .env
+**/*.mp4
+**/*.jpg
+**/*.jpeg
